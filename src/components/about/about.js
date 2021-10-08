@@ -7,10 +7,11 @@ function About() {
 
       <Aboutcontainer>
 
+
         
 
 
-
+           <P>NOS CATEGORIES</P>
 
          <div className="about">
 
