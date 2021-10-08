@@ -6,14 +6,10 @@ function About() {
 
 
       <Aboutcontainer>
-
-
-        
-
-
-           <P>NOS CATEGORIES</P>
-
+          <p>NOS CATEGORIES</p>
          <div className="about">
+           
+           
 
             <div className="about-item ltr-effect" >
                <a className="img" >
@@ -73,10 +69,19 @@ function About() {
 export default About
 
 const Aboutcontainer = styled.div`
+margin: 183px;
 width:100%;
 height:100%;
+font-size:60px;
 
-
+  p{
+     width:100%;
+     height:30px;
+     display:flex;
+     justify-content: center;
+     align-content: center;
+}
+  }
 
 .about{
    width: 100vw;
