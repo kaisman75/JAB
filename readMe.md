@@ -1,1 +1,2 @@
 # jab
+permalink: /index.html
