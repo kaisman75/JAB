@@ -12,7 +12,7 @@
     "react-scripts": "4.0.1",
     "styled-components": "^5.3.1",
     "web-vitals": "^0.2.4",
-    "homepage": "https://github-kaisman75.github.io/jab"
+    "homepage": "https://github.com/kaisman75/jab"
   },
   "scripts": {
     "start": "react-scripts start",
